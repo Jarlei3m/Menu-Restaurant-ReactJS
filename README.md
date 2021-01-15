@@ -4,7 +4,7 @@
 
 ## 💻 Project
 
- - Learning ReactJS, practicing basic principles;
+ - Learning ReactJS basic principles;
  
 <p>&nbsp;&nbsp;</p>
 
