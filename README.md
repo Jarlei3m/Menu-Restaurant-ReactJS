@@ -4,7 +4,9 @@
 
 ## 💻 Project
 
- - Learning ReactJS basic principles;
+ - Learning ReactJS;
+ - Menu filter based on each item category;
+ - Dinamic category selection button, based on an array of unique values (ES6).
  
 <p>&nbsp;&nbsp;</p>
 
